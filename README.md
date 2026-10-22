@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 - Status: System documentation initialized for 2026.
 - Network: Primary API endpoints verified active.
+
+**Overview**
+This repository serves as the central documentation hub for the **EZ8 Official** network infrastructure in Malaysia. Our systems ensure high-availability routing, secure player authentication, and low-latency API endpoints for the EZ8 gaming ecosystem.
+
+**Secure Access & Telemetry**
+All authenticated sessions are routed through the primary [EZ8 Official Login](https://ez8official.com) servers. We continuously monitor round-trip telemetry and packet pacing to ensure optimal performance across domestic telecommunication providers.
